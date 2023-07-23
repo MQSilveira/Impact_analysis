@@ -17,7 +17,7 @@ For a more detailed and interactive visualization of the results, we recommend a
 The Dashboard contains dynamic charts and interactive features to explore the data in a personalized way. Click on the link above to access the Dashboard in Power BI.
 
 ## Author
-This report was prepared by <a href="https://www.linkedin.com/in/dev-marcos-silveira/" target="_blank">Marcos Silveira</a> as part of the Inovativa program data analysis project.
+This report was prepared by [![Marcos Silveira](https://www.linkedin.com/in/dev-marcos-silveira/)](https://www.linkedin.com/in/dev-marcos-silveira/){:target="_blank"} as part of the Inovativa program data analysis project.
 
 ## Acknowledgments
 We would like to express our gratitude to all participants of the Inovativa program and the involved entities for providing the data and enabling this analysis.
