@@ -12,12 +12,12 @@ The contents of this repository include:
 ## Access to the Interactive Dashboard
 For a more detailed and interactive visualization of the results, we recommend accessing the Inovativa program Dashboard through Power BI.
 
-- [![Access Power BI Dashboard](https://www.exemplo.com/link-do-powerbi)](https://www.exemplo.com/link-do-powerbi)
+<a href="https://app.powerbi.com/view?r=eyJrIjoiOTJlOWFjYzgtODM3Mi00MDg1LThiMTgtMzY0YzkzZmZkODM3IiwidCI6IjA5MTdmZTEwLTU2ZGItNDRiZi1iMWM1LTMxMDYxYWIyMWNmOSJ9&pageName=ReportSection0499d47603ea0a48a996" target="_blank">Access Power BI Dashboard</a>
 
 The Dashboard contains dynamic charts and interactive features to explore the data in a personalized way. Click on the link above to access the Dashboard in Power BI.
 
 ## Author
-This report was prepared by [Marcos Silveira](https://www.linkedin.com/in/dev-marcos-silveira/) as part of the Inovativa program data analysis project.
+This report was prepared by <a href="https://www.linkedin.com/in/dev-marcos-silveira/" target="_blank">Marcos Silveira</a> as part of the Inovativa program data analysis project.
 
 ## Acknowledgments
 We would like to express our gratitude to all participants of the Inovativa program and the involved entities for providing the data and enabling this analysis.
