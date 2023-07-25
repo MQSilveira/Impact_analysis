@@ -15,6 +15,16 @@ For a more detailed and interactive visualization of the results, we recommend a
 
 The Dashboard contains dynamic charts and interactive features to explore the data in a personalized way. Click on the link above to access the Dashboard in Power BI.
 
+## Access to the full analysis report
+For a more detailed and interactive visualization of the results, we recommend accessing the Inovativa program Dashboard through Power BI.
+- [![Access to PDF Report](https://github.com/MQSilveira/Impact_analysis/blob/main/inovativas_data_analysis_report.pdf)](https://github.com/MQSilveira/Impact_analysis/blob/main/inovativas_data_analysis_report.pdf)
+
+To view the PDF containing the full report of the Inovativa program data analysis, click on the link below:
+
+The report contains the detailed results of the analysis of the Inovativa program, addressing the profile of participating entrepreneurs, the impact on business revenues, the employability generated and the beneficiaries' perception of the importance of the program. Through the PDF report, you will gain a complete view of the insights and conclusions derived from the data analysis.
+
+*```Please note that all data presented in the report is fictional and created for illustrative and demonstrative purposes only. The purpose of this report is to demonstrate how a data analysis of Startups in the Inovativa program might look and should not be used for real decision-making.```*
+
 ## Author
 This report was prepared by [![Marcos Silveira](https://www.linkedin.com/in/dev-marcos-silveira/)](https://www.linkedin.com/in/dev-marcos-silveira/) as part of the Inovativa program data analysis project.
 
